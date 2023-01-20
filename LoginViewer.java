@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;  
 import java.awt.event.*;  
 import java.lang.Exception;  
- //test 1
+ //test 2
 //create CreateLoginForm class to create login form  
 class createLoginViewer extends JFrame implements ActionListener  
 {  
