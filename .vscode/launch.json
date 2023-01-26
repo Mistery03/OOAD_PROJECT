@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Launch Database",
             "request": "launch",
+            "mainClass": "MainSystem.Database",
+            "projectName": "OOAD_ASSIGNMENT_CLEAN_587e0b40"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "MainSystem.test",
+            "projectName": "OOAD_ASSIGNMENT_CLEAN_587e0b40"
+        },
+        {
+            "type": "java",
+            "name": "Launch Database",
+            "request": "launch",
             "mainClass": "Database",
             "projectName": "OOAD_ASSIGNMENT_CLEAN_587e0b40"
         },
@@ -102,7 +116,8 @@
             "name": "Launch Test",
             "request": "launch",
             "mainClass": "Test",
-            "projectName": "OOAD_ASSIGNMENT_8574b296"
+            "projectName": "OOAD_ASSIGNMENT_8574b296",
+            "vmArgs": "--module-path \"C:\\Programming Stuff\\Java\\javafx-sdk-19\\lib\" --add-modules javafx.controls,javafx.media"
         }
     ]
 }
